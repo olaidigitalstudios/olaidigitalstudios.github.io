@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://dhineshmoorthy-gamedev.github.io',
+  site: 'https://olaidigitalstudios.github.io',
   base: '/',
   trailingSlash: 'never',
   integrations: [
