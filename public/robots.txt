@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dhineshmoorthy-gamedev.github.io/sitemap.xml
